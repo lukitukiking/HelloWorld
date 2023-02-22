@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb3b65b-6248-4f36-81cf-b7066c3664a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/README.md" afterDir="false" />
+    <list default="true" id="dbb3b65b-6248-4f36-81cf-b7066c3664a4" name="Changes" comment="inside-commit">
+      <change beforePath="$PROJECT_DIR$/HelloWorld" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HelloWorld" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,11 +52,23 @@
       <option name="presentableId" value="Default" />
       <updated>1677070411922</updated>
       <workItem from="1677070412799" duration="5000" />
-      <workItem from="1677070481936" duration="1863000" />
+      <workItem from="1677070481936" duration="2175000" />
     </task>
+    <task id="LOCAL-00001" summary="inside-commit">
+      <created>1677072367592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677072367593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inside-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="inside-commit" />
   </component>
 </project>
